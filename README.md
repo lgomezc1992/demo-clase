@@ -18,6 +18,7 @@ bla
 * item 3
 
 ---
+esta es la edición desde el pc
 
 esta palabra está en **negrilla**
 
